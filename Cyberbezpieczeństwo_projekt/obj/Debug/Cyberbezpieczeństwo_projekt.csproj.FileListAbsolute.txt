@@ -1,0 +1,10 @@
+C:\Users\kuba8\source\repos\Cyberbezpieczeństwo_projekt\Cyberbezpieczeństwo_projekt\bin\Debug\Cyberbezpieczeństwo_projekt.exe.config
+C:\Users\kuba8\source\repos\Cyberbezpieczeństwo_projekt\Cyberbezpieczeństwo_projekt\bin\Debug\Cyberbezpieczeństwo_projekt.exe
+C:\Users\kuba8\source\repos\Cyberbezpieczeństwo_projekt\Cyberbezpieczeństwo_projekt\bin\Debug\Cyberbezpieczeństwo_projekt.pdb
+C:\Users\kuba8\source\repos\Cyberbezpieczeństwo_projekt\Cyberbezpieczeństwo_projekt\obj\Debug\Cyberbezpieczeństwo_projekt.csprojAssemblyReference.cache
+C:\Users\kuba8\source\repos\Cyberbezpieczeństwo_projekt\Cyberbezpieczeństwo_projekt\obj\Debug\Cyberbezpieczeństwo_projekt.Form1.resources
+C:\Users\kuba8\source\repos\Cyberbezpieczeństwo_projekt\Cyberbezpieczeństwo_projekt\obj\Debug\Cyberbezpieczeństwo_projekt.Properties.Resources.resources
+C:\Users\kuba8\source\repos\Cyberbezpieczeństwo_projekt\Cyberbezpieczeństwo_projekt\obj\Debug\Cyberbezpieczeństwo_projekt.csproj.GenerateResource.cache
+C:\Users\kuba8\source\repos\Cyberbezpieczeństwo_projekt\Cyberbezpieczeństwo_projekt\obj\Debug\Cyberbezpieczeństwo_projekt.csproj.CoreCompileInputs.cache
+C:\Users\kuba8\source\repos\Cyberbezpieczeństwo_projekt\Cyberbezpieczeństwo_projekt\obj\Debug\Cyberbezpieczeństwo_projekt.exe
+C:\Users\kuba8\source\repos\Cyberbezpieczeństwo_projekt\Cyberbezpieczeństwo_projekt\obj\Debug\Cyberbezpieczeństwo_projekt.pdb
