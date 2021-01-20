@@ -1,2 +1,2 @@
 # Program-szyfrujacy-AES-i-RSA
-Jest to program szyfrujący wpisaną frazę, bądź frazę z dokumentu tekstowego, który wczyta się owym programem.
+Jest to program szyfrujący metodą synchroniczną i asynchroniczną. Może zaszyfrować wpisaną ręcznie frazę, bądź wczytaną z dokumentu tekstowego.
